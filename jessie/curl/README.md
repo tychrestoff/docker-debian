@@ -4,9 +4,9 @@
 Debian Jessie with curl, wget, and ca-certificates. Inherits from `tychrestoff/debian:min`.
 
 ####Utility details
-  * **ca-certificates**
+  * [**`ca-certificates`**](https://packages.debian.org/jessie/ca-certificates)
     * PEM files of CA certificates to allow SSL-based applications to check for authenticity of SSL connections
-  * **curl**
+  * [**`curl`**](https://packages.debian.org/jessie/curl)
     * CLI for transferring data with URL syntax
     * Supports many protocols:
       * HTTP
@@ -25,6 +25,6 @@ Debian Jessie with curl, wget, and ca-certificates. Inherits from `tychrestoff/d
       * cookies
       * user/password authentication
       * proxy tunneling
-  * **wget**
+  * [**`wget`**](https://packages.debian.org/jessie/wget)
     * Network utility to retrieve files from the web using HTTP, HTTPS, and FTP
     * Works non-interactively even after logging off
