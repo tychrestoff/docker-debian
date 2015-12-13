@@ -1,7 +1,9 @@
 # README.md
 ### Let's get started: `docker pull tychrestoff/debian:curl`
 
-Debian Jessie with curl, wget, and ca-certificates. Inherits from `tychrestoff/debian:min`.
+Debian Jessie with curl, wget, and ca-certificates.
+
+Inherits from `tychrestoff/debian:min`.
 
 #### Included Utilities
   * [**`ca-certificates`**](https://packages.debian.org/jessie/ca-certificates)
