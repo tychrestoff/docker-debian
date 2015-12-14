@@ -8,8 +8,6 @@ Docker Hub: https://hub.docker.com/r/tychrestoff/debian/
 
 Includes:
   * Jessie (8.2)
-  * Wheezy (7.9)
-  * Squeeze (6.0)
   
 Each version comes in four flavors that each build upon the last:
   * min - Only Debian. You get bash and that's about it.
