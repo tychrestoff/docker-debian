@@ -5,11 +5,11 @@ Debian Jessie with support for popular source control management software.
 
 Inherits from `tychrestoff/debian:curl`.
 
-#### Included Source Control Managers
+#### Source Control Managers
   * [**`bzr`**](https://packages.debian.org/jessie/bzr)
   * [**`git`**](https://packages.debian.org/jessie/git)
   * [**`mercurial`**](https://packages.debian.org/jessie/mercurial)
   * [**`subversion`**](https://packages.debian.org/jessie/subversion)
   
-#### Additional Utilities
+#### Utilities
   * [**`openssh-client`**](https://packages.debian.org/jessie/openssh-client)
