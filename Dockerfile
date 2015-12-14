@@ -1,2 +1,2 @@
-FROM        tychrestoff/debian:jessie-fat
+FROM        tychrestoff/debian:jessie
 MAINTAINER  tychrestoff
