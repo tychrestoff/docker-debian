@@ -5,7 +5,7 @@ Debian Jessie with curl, wget, and ca-certificates.
 
 Inherits from `tychrestoff/debian:min`.
 
-#### Included Utilities
+#### Utilities
   * [**`ca-certificates`**](https://packages.debian.org/jessie/ca-certificates)
   * [**`curl`**](https://packages.debian.org/jessie/curl)
   * [**`wget`**](https://packages.debian.org/jessie/wget)
