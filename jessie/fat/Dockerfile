@@ -21,7 +21,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libmagickcore-dev \
     libmagickwand-dev \
     libmysqlclient-dev \
-    libncurses-dev \
+    libncurses5-dev \
     libpng-dev \
     libpq-dev \
     libreadline-dev \
