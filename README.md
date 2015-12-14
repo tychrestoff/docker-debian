@@ -1,4 +1,6 @@
-**docker-debian**
+# README
+
+### Let's get started: `docker pull tychrestoff/debian`
 
 Dockerfiles for base Debian images.
 
